@@ -1,0 +1,84 @@
+levelname1 = level 1
+levelname2 = level 2
+levelname3 = level 3 
+levelname4 = level 4 
+levelname5 = level 5 
+levelname6 = level 6 
+levelname7 = level 7 
+levelname8 = level 8 
+levelname9 = level 9 
+levelname10 = level 10 
+levelname11 = level 11 
+levelname12 = level 12 
+levelname13 = level 13
+levelname14 = level 14 
+levelname15 = level 15
+levelname16 = level 16
+levelname17 = level 17 
+levelname18 = level 18 
+levelname19 = level 19 
+levelname20 = level 20
+levelname21 = level 21
+
+btnYes = yes
+btnNO = no
+btnCancel = cancel
+btnBuy = buy coin
+btnClose = close
+btnTitle = Title
+btnRetry = Retry
+btnStart = Start Game
+btnReview =Rate & Review
+btnMore = More Game
+btnContinue = Cointinue
+levelScore = Exp : 
+
+titleShop = Coin Store
+price1tip = Get 300 Coin
+price2tip = Get 600 Coin
+price3tip = Get 1000 Coin
+price4tip = Get 1500 Coin
+price1 = $0.99
+price2 = $1.99
+price3 = $2.99
+price4 = $3.99
+
+
+askTipTitle = Do you wanna show a tip?
+askTipHit = Show tip will cost you 20 coins.
+askSkipTitle = Wanna skip this level?
+askSkipHit = Skip this level costs 60 coins.
+notEnoughTitle = not enough coin.
+notEnoughHit = Show Tip costs 20 coins.\n Skip level costs 60 coins.
+
+wintitle = Level Completed
+levelscore = Level Score: 
+failtitle = Level Failed
+
+
+
+tipTitle = Level Tip
+level1tip = Slice the wood into pices.
+level2tip = Slice a tiny bit of the wood.
+level3tip = Slice the wood,it not hard.
+level4tip = Slice Both side of the wood fill the pit.
+level5tip = Slice down right in the middle.
+level6tip = Slice right part of the wood let it sliding to fill the pit.
+level7tip = Slice the right wood first then quickly slice the left one,good luck.
+level8tip = Slice through the middle of the ball.
+level9tip = Slice on the right side of the wood, make a slope for pass. 
+level10tip = Slice the wood good luck.
+level11tip = Slice the wood good luck.
+level12tip = Slice the wood good luck.
+level13tip = Slice the wood good luck.
+level14tip = Slice the wood good luck.
+level15tip = Slice the wood good luck.
+level16tip = Slice the wood good luck.
+level17tip = Slice the wood good luck.
+level18tip = Slice the wood good luck.
+level19tip = Slice the wood good luck.
+level20tip = Slice the wood good luck.
+level21tip = Slice the wood good luck.
+
+
+
